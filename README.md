@@ -1,4 +1,4 @@
-# Markets Analysis Portfolio — Velina Boneva
+# Stocks and Portfolio Analysis Using Python — Velina Boneva
 
 This repository contains practical financial analysis projects implemented in Python — demonstrating my skills across data handling, descriptive statistics, volatility, regression modelling, and market interpretation. These projects reflect the analytical approach I bring to markets-focused roles.
 
